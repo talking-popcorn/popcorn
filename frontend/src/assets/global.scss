@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin : 0;
+  padding : 0;
+}
+
+// colors
+$primary-color : #190482;
+$secondary-color : #7752FE;
+$tertiary-color : #C2D9FF; // #8E8FFA;
+$error-color : #980000;
+$on-primary-color : #FFFFFF;
+$on-secondary-color : #FFFFFF;
+$on-tertiary-color : #000000;
+$on-error-color : #FFFFFF;
+
+// sizes
+// $header-height : 10rem;
+// $footer-size : 10rem;
