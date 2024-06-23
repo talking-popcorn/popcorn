@@ -26,7 +26,8 @@ const routes = [
 		component: SearchView,
 	},
 	{
-		path: '/detail:id',
+		path : '/detail',
+		// path: '/detail:id',
 		name: 'Detail',
 		component: DetailView,
 	},
